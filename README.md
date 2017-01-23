@@ -20,17 +20,17 @@ Java 1.8 <br/>
 
 ## How To Run
 
-<b>mvn clean install<b> command will build and run the tests besides will generate the jar file(TenPinBowling-1.0.jar)
- in target folder.
+<b>mvn clean install</b> command will build and run the tests<br/>
+It will generate the jar file(TenPinBowling-1.0.jar) in target folder.
 <br/>
+
 cd target <br/>
 
 java -jar TenPinBowling-1.0.jar "9 1 9 1"
 
 <br/>
 
-if you don't provide any input by default it will use the following inputs
-<br/>
+if you don't provide any input by default it will use the following inputs<br/>
 "9 1 9 1"<br/>
 "10 10 10 10 10 10 10 10 10 10 10 10" <br/>
 "1 2 3 4" <br/>
