@@ -16,7 +16,7 @@ for more details visit: http://www.topendsports.com/sport/tenpin/scoring.htm
 
 ## Requirements
 Java 1.8 <br/>
-
+Maven 3.3
 
 ## How To Run
 
@@ -26,7 +26,7 @@ It will generate the jar file(TenPinBowling-1.0.jar) in target folder.
 
 cd target <br/>
 
-java -jar TenPinBowling-1.0.jar "9 1 9 1"
+<b>java -jar TenPinBowling-1.0.jar "9 1 9 1" </b>
 
 <br/>
 
